@@ -1,3 +1,28 @@
 <resources>
     <string name="app_name">apitest</string>
+
+    <string-array name="arabic_countries">
+        <item>البحرين</item>
+        <item>الجزائر</item>
+        <item>السعودية</item>
+        <item>السودان</item>
+        <item>العراق</item>
+        <item>الكويت</item>
+        <item>المغرب</item>
+        <item>اليمن</item>
+        <item>تونس</item>
+        <item>جيبوتي</item>
+        <item>سوريا</item>
+        <item>عُمان</item>
+        <item>فلسطين</item>
+        <item>قطر</item>
+        <item>لبنان</item>
+        <item>ليبيا</item>
+        <item>مصر</item>
+        <item>موريتانيا</item>
+        <item>الإمارات العربية المتحدة</item>
+        <item>الأردن</item>
+        <item>الصومال</item>
+    </string-array>
+
 </resources>
